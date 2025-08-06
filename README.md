@@ -4,6 +4,8 @@
 
 🛠 Tech Stack & Skills Here are some of the technologies and tools I've been working with:
 
-Languages: Python 🐍 C++ 💻 SQL 📊 Frameworks & Tools: NumPy & Pandas 📈 Git & GitHub 🖥 Domains of Interest: Web Development 📱 AI/ML 🤖 UI/UX Design 🎨 🚀 Hackathons & Achievements 🔹 Competed in Bhartiya Antarishak Hackathone and Challenges. 🔹 Worked on real-world projects, gaining hands-on experience in Web development, Machine Learning and cybersecurity. 🔹 Passionate about open-source contributions and continuous learning. 🌐 Connect with Me 📧 Email: agarwalpriyanshi690@gmail.com
+Languages: Python 🐍 C++ 💻 SQL 📊 Frameworks & Tools: NumPy & Pandas 📈 Git & GitHub 🖥 Domains of Interest: Web Development 📱 AI/ML 🤖 UI/UX Design 🎨 🚀 Hackathons & Achievements 🔹 Competed in Bhartiya Antarishak Hackathone and Challenges. 🔹 Worked on real-world projects, gaining hands-on experience in Web development, Machine Learning and cybersecurity. 🔹 Passionate about open-source contributions and continuous learning. 
+
+🌐 Connect with Me 📧 Email: agarwalpriyanshi690@gmail.com
 
 🔗 Follow my journey as I continue exploring, learning, and building! 🚀
