@@ -50,12 +50,30 @@ Data Visualization & Charts 📊
 🔹 Contributed to open-source communities and constantly upskilled through learning platforms.  
 🔹 Passionate about solving problems and building technology that can make a difference.
 
+---
+
 🌐 Connect with Me  
 📧 Email: agarwalpriyanshi690@gmail.com  
 💼 LinkedIn: Priyanshi Agarwal  
 🐙 GitHub: Priyanshi Agarwal
 
 🔗 Follow my journey as I continue exploring, learning, and building! 🚀
+
+📊 GitHub Stats & Contributions
+
+### Most Used Languages  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshiagarwal&layout=compact&theme=default)
+
+### GitHub Activity  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshiagarwal&show_icons=true&theme=default)
+
+- **Total Contributions:** 47 (Jan 21, 2024 – Present)  
+- **Current Streak:** 0 (as of Sep 12, 2025)  
+- **Longest Streak:** 3 days (Jul 8 – Jul 10, 2025)
+
+#### Note  
+These stats are powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) and update automatically as you make new contributions.
+
 
 🏷️ Tags  
 #PriyanshiAgarwal #WomenInTech #CSE #GWEC_Ajmer #AI #MachineLearning #WebDevelopment #UIUX #DataVisualization #Charts #Hackathons #OpenSource #ProblemSolving
