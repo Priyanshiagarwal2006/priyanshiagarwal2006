@@ -54,8 +54,6 @@ Data Visualization & Charts 📊
 
 🌐 Connect with Me  
 📧 Email: agarwalpriyanshi690@gmail.com  
-💼 LinkedIn: Priyanshi Agarwal  
-🐙 GitHub: Priyanshi Agarwal
 
 🔗 Follow my journey as I continue exploring, learning, and building! 🚀
 
