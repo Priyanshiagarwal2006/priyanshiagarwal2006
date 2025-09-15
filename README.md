@@ -35,10 +35,18 @@ Here are some of the technologies and tools I've been working with:
 
 ---
 
-**Frameworks & Tools:**  
-NumPy & Pandas 📈  
-Git & GitHub 🖥️
-
+<h3 align="center">Frameworks & Tools:</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" height="40" />
+  <img src="https://img.shields.io/badge/TensorFlow-TensorFlow-orange?logo=tensorflow" title="TensorFlow" height="40" />
+  <img src="https://img.shields.io/badge/Matplotlib-Matplotlib-red?logo=matplotlib" title="Matplotlib" height="40" />
+  <img src="https://img.shields.io/badge/Seaborn-Seaborn-blue?logo=python" title="Seaborn" height="40" />
+  <img src="https://img.shields.io/badge/PyTorch-PyTorch-orange?logo=pytorch" title="PyTorch" height="40" />
+  <img src="https://img.shields.io/badge/Scikit-learn-Scikit--learn-green?logo=scikitlearn" title="Scikit-learn" height="40" />
+</p>
 ---
 
 **Domains of Interest:**  
