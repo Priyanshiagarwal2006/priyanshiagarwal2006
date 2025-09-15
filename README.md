@@ -65,7 +65,7 @@ Data Visualization & Charts 📊
 
 
 📌 Talk with Bheem and Chutki  
-🎮 A chatbot-based application that allows users to interact with popular characters Bheem and Chutki using AI-powered conversation flows. It demonstrates practical usage of machine learning in creating engaging user experiences.  
+🎮 A chatbot-based application that allows users to interact with popular characters Bheem and Chutki using AI-powered conversation flows.
 
 ---
 
