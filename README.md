@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Sanjeevni Kumari</h1>
+<h3 align="center">I'm
+
+
 👋 Hello, I'm Priyanshi Agarwal  
 🎓 Engineering Student | Computer Science Major  
 🔧 Passionate about problem-solving, building innovative solutions, and exploring new technologies.
