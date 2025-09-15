@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshi Agarwal</h1>
-<h3 align="center">I'm
-
+---
  
 🎓 Engineering Student | Computer Science Major  
 🔧 Passionate about problem-solving, building innovative solutions, and exploring new technologies.
