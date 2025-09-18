@@ -68,8 +68,7 @@ Data Visualization & Charts 📊
 🎮 A chatbot-based application that allows users to interact with popular characters Bheem and Chutki using AI-powered conversation flows.
 
 📌 Food Recipe App
-
-Select ingredients and get recipe suggestions along with a voice guide (desktop only). Powered by FastAPI, JavaScript, and pyttsx3.
+🚀 Select ingredients and get recipe suggestions along with a voice guide (desktop only). Powered by FastAPI, JavaScript, and pyttsx3.
 
 ---
 
