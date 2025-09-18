@@ -60,14 +60,17 @@ Data Visualization & Charts 📊
 
 📚 Projects  
 
-📌 AI Emoji Translator  
+📌 AI Emoji Translator 
+
 🚀 A fun and interactive project that leverages Natural Language Processing (NLP) to convert text into corresponding emojis, making conversations more expressive and engaging.  
 
 
 📌 Talk with Bheem and Chutki  
+
 🎮 A chatbot-based application that allows users to interact with popular characters Bheem and Chutki using AI-powered conversation flows.
 
-📌 Food Recipe App
+📌 Food Recipe App 
+
 🚀 Select ingredients and get recipe suggestions along with a voice guide (desktop only). Powered by FastAPI, JavaScript, and pyttsx3.
 
 ---
